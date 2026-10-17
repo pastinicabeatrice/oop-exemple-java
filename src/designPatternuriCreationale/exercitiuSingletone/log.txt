@@ -1,0 +1,4 @@
+[LOG]: Aplicația a pornit.
+[LOG]: Încărcare configurații...
+[LOG]: Încercare logare pentru user: admin
+[LOG]: Autentificare reușită pentru user: admin
